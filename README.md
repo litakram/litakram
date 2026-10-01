@@ -14,7 +14,6 @@
   <a href="mailto:litnitiakram1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/akramlit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://akramlitniti.page"><img src="https://img.shields.io/badge/Portfolio-0d1b8c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://neuralplus.ma"><img src="https://img.shields.io/badge/Neural+-2563eb?style=for-the-badge&logo=rocket&logoColor=white" alt="Neural+"/></a>
 </p>
 
 ---
