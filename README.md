@@ -3,10 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b8c,100:2563eb&height=200&section=header&text=Akram%20Litniti&fontSize=52&fontColor=ffffff&desc=Full-Stack%20%C2%B7%20GenAI%20Developer&descAlignY=66&descSize=20&animation=fadeIn" width="100%" alt="Akram Litniti header"/>
 </p>
 
+
+
 <p align="center">
-  <a href="https://github.com/akramlit">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;GenAI+%26+LLM+Integration+%F0%9F%A4%96;Freelancer+%E2%80%94+Open+for+projects+%F0%9F%9A%80;Based+in+Casablanca%2C+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG"/>
-  </a>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Available for freelance"/>
+  <img src="https://komarev.com/ghpvc/?username=akramlit&color=2563eb&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
 </p>
 
 <p align="center">
