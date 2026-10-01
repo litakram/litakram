@@ -10,11 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Available for freelance"/>
-  <img src="https://komarev.com/ghpvc/?username=akramlit&color=2563eb&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
-</p>
-
-<p align="center">
   <a href="mailto:litnitiakram1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/akramlit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-0d1b8c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
