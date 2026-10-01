@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b8c,100:2563eb&height=200&section=header&text=Akram%20Litniti&fontSize=52&fontColor=ffffff&desc=Full-Stack%20%26%20GenAI%20Developer&descAlignY=66&descSize=20&animation=fadeIn" width="100%" alt="Akram Litniti header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b8c,100:2563eb&height=200&section=header&text=Akram%20Litniti&fontSize=52&fontColor=ffffff&desc=Full-Stack%20%C2%B7%20GenAI%20Developer&descAlignY=66&descSize=20&animation=fadeIn" width="100%" alt="Akram Litniti header"/>
 </p>
 
 <p align="center">
