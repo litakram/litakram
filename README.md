@@ -38,7 +38,6 @@ I'm a **Full-Stack & GenAI developer** from Casablanca who builds end-to-end web
 const akram = {
   role: "Full-Stack & GenAI Developer",
   location: "Casablanca, Morocco 🇲🇦",
-  currentlyBuilding: "Neural+ — AI-assisted content creation",
   openTo: ["Freelance projects", "Full-time roles", "Collaborations"],
   languages: ["Arabic", "French", "English"],
   funFact: "I debug faster with mint tea 🍵",
@@ -228,22 +227,6 @@ const akram = {
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akramlit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramlit&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akramlit&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akramlit&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
-</p>
-
----
 
 ## 🤝 Let's Work Together
 
